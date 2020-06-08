@@ -1,1 +1,4 @@
-# Write your code here
+count = log10
+while count >=1
+do count -=1 
+end
