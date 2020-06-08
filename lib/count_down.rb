@@ -1,4 +1,4 @@
 count = log10
-while count >=1
-do count -=1 
+while count >=1 do
+  puts count
 end
